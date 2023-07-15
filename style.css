@@ -1,0 +1,79 @@
+body{
+    background-color: #e9c5c9;
+    color: rgb(5, 85, 155);
+    font-family: 'Raleway', sans-serif;
+    padding: 20px;
+    border: 1px solid #0d456f;
+
+    border-radius: 5px;
+    text-align: justify;
+    font-size: 25px;
+    
+}
+div{
+    text-align: justify;
+    font-size: 25px;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+
+}
+p{
+    color: black;
+    font-family: 'open sans';
+}
+img{
+    width: 25%; 
+}
+#content{background-position: center;}
+
+.aj{
+    width: 25%;
+    margin-left: 40%;
+    align-items: endz;
+    
+}
+
+.titulo{
+    color: #730662;
+    font-size: 100px;
+    text-align: center;
+    font-family: 'El Messiri', sans-serif;
+
+}
+
+.caracteristica{
+    text-align: center;
+}
+a{
+    color: #f10ea6;
+    text-decoration:underline;
+    margin-left: 1%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+}
+a :hover{
+    color: aqua;
+}
+.menu :hover{
+    color: #cd4e0ae1;
+}
+
+.menu{
+
+    letter-spacing: 2px;
+    text-align:left;
+    
+}
+.ajo{
+    margin-left: 5%;
+
+}
+.mito{
+    text-align: center;
+}
+.text{
+    margin-left: 20%;
+    margin-right: 20%;
+    
+}
+/*el body afecta a todo lo que tengamos adrentro
